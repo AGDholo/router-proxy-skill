@@ -1,9 +1,9 @@
 ---
-name: router-proxy-skill
+name: openwrt-passwall-skill
 description: 通过 SSH 连接家用路由器或旁路由，排查代理系统的安装状态、DNS、透明代理、IPv6 绕过与订阅节点质量，并按 AIGC、默认上网、流媒体等用途筛选和切换节点。用户提到路由器、ttyd、PassWall、PassWall2、OpenWrt、iStoreOS、旁路由、DNS 分流、节点测速、AIGC IP 纯净度、抖音或 B 站卡顿时使用。
 ---
 
-# Router Proxy Skill
+# OpenWrt PassWall Skill
 
 ## 适用场景
 
